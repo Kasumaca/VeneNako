@@ -1,0 +1,11 @@
+# Ignore config with API keys
+config.php
+
+# Ignore database dumps
+*.sql
+
+# Ignore IDE or system files
+*.idea/
+*.vscode/
+Thumbs.db
+.DS_Store
